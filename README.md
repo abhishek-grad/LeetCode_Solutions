@@ -46,6 +46,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -60,8 +61,13 @@ My daily journey of coding.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
