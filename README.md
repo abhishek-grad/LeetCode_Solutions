@@ -8,6 +8,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,8 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
