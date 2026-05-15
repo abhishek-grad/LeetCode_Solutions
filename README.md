@@ -11,6 +11,7 @@ My daily journey of coding.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
