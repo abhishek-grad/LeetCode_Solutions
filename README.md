@@ -12,6 +12,7 @@ My daily journey of coding.
 | [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 <!---LeetCode Topics End-->
