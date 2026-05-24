@@ -55,6 +55,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
@@ -90,4 +91,8 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
