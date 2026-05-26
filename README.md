@@ -12,6 +12,7 @@ My daily journey of coding.
 | [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Hash Table
@@ -81,6 +82,7 @@ My daily journey of coding.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ My daily journey of coding.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
