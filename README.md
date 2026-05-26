@@ -19,6 +19,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ My daily journey of coding.
 | [0058-length-of-last-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
