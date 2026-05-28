@@ -15,6 +15,7 @@ My daily journey of coding.
 | [0088-merge-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,12 +68,14 @@ My daily journey of coding.
 | [0058-length-of-last-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
