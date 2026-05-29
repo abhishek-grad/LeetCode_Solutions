@@ -16,6 +16,7 @@ My daily journey of coding.
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ My daily journey of coding.
 | [0231-power-of-two](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
