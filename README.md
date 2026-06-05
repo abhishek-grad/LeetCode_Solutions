@@ -43,6 +43,7 @@ My daily journey of coding.
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ My daily journey of coding.
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
