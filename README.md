@@ -17,6 +17,7 @@ My daily journey of coding.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
@@ -28,6 +29,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Math
@@ -159,4 +161,12 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
