@@ -24,6 +24,7 @@ My daily journey of coding.
 | [3161-block-placement-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3454-separate-squares-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3454-separate-squares-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -50,6 +51,7 @@ My daily journey of coding.
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Bit Manipulation
@@ -57,6 +59,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +73,7 @@ My daily journey of coding.
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Memoization
@@ -178,6 +182,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +195,7 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
