@@ -96,6 +96,7 @@ My daily journey of coding.
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ My daily journey of coding.
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
