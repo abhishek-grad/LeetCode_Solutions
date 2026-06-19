@@ -15,6 +15,7 @@ My daily journey of coding.
 | [0088-merge-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -165,6 +166,7 @@ My daily journey of coding.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Binary Indexed Tree
