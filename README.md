@@ -81,6 +81,7 @@ My daily journey of coding.
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Memoization
@@ -176,6 +177,7 @@ My daily journey of coding.
 | [1732-find-the-highest-altitude](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
