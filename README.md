@@ -18,6 +18,7 @@ My daily journey of coding.
 | [1732-find-the-highest-altitude](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -164,6 +165,7 @@ My daily journey of coding.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -202,6 +204,7 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
