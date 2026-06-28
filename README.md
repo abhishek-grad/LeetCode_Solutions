@@ -23,6 +23,7 @@ My daily journey of coding.
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -42,6 +43,7 @@ My daily journey of coding.
 | [0013-roman-to-integer](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -209,6 +211,7 @@ My daily journey of coding.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
