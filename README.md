@@ -19,6 +19,7 @@ My daily journey of coding.
 | [1833-maximum-ice-cream-bars](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -107,6 +108,7 @@ My daily journey of coding.
 | [0067-add-binary](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0067-add-binary/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
