@@ -29,6 +29,7 @@ My daily journey of coding.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3454-separate-squares-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3454-separate-squares-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -237,6 +238,7 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +278,13 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
