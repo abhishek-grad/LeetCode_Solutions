@@ -14,6 +14,7 @@ My daily journey of coding.
 | [0066-plus-one](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -90,6 +91,7 @@ My daily journey of coding.
 | [0070-climbing-stairs](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -280,6 +282,7 @@ My daily journey of coding.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
