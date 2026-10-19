@@ -21,6 +21,7 @@ My daily journey of coding.
 | [1840-maximum-building-height](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -150,6 +151,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/0069-sqrtx/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3454-separate-squares-ii](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3454-separate-squares-ii/) | Hard |
@@ -175,6 +177,7 @@ My daily journey of coding.
 | [1833-maximum-ice-cream-bars](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhishek-grad/LeetCode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
